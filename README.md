@@ -4,14 +4,9 @@
 
 This is [obscene interface 47]
 
-obscene interface is a general purpose framework for Unity modding.
-obscene interface includes tools and libraries for
+obscene interface is a the obscene interface of your game
 
-* Upload custom code (hereinafter *plugins*) to the game at startup;
-* Fix in-game methods, classes, and even entire assemblies without affecting the game's source files;
-* Configure plugins and register the game in the desired output, such as a console or file;
-* Manage plugin dependencies.
-
+*we plan to add English to the mod
  An obscene interface is all you need to play with obscene language
 
 ## The contents of this package
