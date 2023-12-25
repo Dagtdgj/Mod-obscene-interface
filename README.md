@@ -1,15 +1,14 @@
 ![obscene interface logo]
 
-# obscene interface
+#obscene interface
 
-This is [obscene interface 47]
+This is [expletive interface 49]
 
-obscene interface is a the obscene interface of your game
+An obscene interface is an obscene interface for your game.
 
-*we plan to add English to the mod
- An obscene interface is all you need to play with obscene language
+* An obscene interface is all you need to play with obscene language
 
-## The contents of this package
+## Contents of this package
 
 the package contains the correct translation.
 
@@ -17,29 +16,34 @@ the package contains the correct translation.
 
 This is the recommended way to install an obscene interface in the game.
 
-1. Download and install the mod. There was a folder "Translation" in the zip archive. Drop her off along the way: Lethal Company\BepInEx
-If necessary, replace the existing files.
+1. Download and install the mod. The zip archive contained a “Translation” folder. Drop her off along the path: Lethal Company\BepInEx.
+Replace existing files if necessary.
 
-## Installation (manual)
+## Installation instructions
 
 This is the recommended way to install an obscene interface in the game.
 
-1. Download and install the mod. There was a folder "Translation" in the zip archive. Drop her off along the way: Lethal Company\BepInEx
-If necessary, replace the existing files.
+1. Download and install the mod. The zip archive contained a “Translation” folder. Drop her off along the path: Lethal Company\BepInEx.
+Replace existing files if necessary.
 
 ### Configuration
 
-You don't need to configure it. Just start the game. If everything is correct, you will see a new game interface!
+You don't need to configure it. Just start the game. If everything is correct, you will see the new game interface!
 
-## Issues, questions, etc.
+## Problems, questions, etc.
 
-At this moment, you can use the following channels to ask for help
+At this time, you can use the following channels to seek help.
 
-* [obscene interface Telegram](https://t.me/modobscene) -- **write in the comments under the posts your problems, we will help**
+* [obscene Telegram interface](https://t.me/modobscene) -- **write your problems in the comments under the posts, we will help**
 
-## Changelog
+## List of changes
 
-### 47
+### 49
 
-* Initial release
+* added more game translation
 
+## Special thanks/disclaimer
+
+* FIXFROM guys, implement this mod. If we offended anyone with this mod, then know that your feelings are the same. This mod was created for entertainment, but in no case to humiliate anyone's feelings or the like.
+
+ You can always write your suggestions for fashion changes in the comments under posts in our telegram channel (item - Problems, questions, etc.).
