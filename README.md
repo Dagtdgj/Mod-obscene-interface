@@ -17,14 +17,14 @@ the package contains the correct translation.
 
 This is the recommended way to install an obscene interface in the game.
 
-1. Download and install the mod. There was a folder "Translation" in the zip archive. Drop her off along the way: The Deadly Company\BepInEx
+1. Download and install the mod. There was a folder "Translation" in the zip archive. Drop her off along the way: Lethal Company\BepInEx
 If necessary, replace the existing files.
 
 ## Installation (manual)
 
 This is the recommended way to install an obscene interface in the game.
 
-1. Download and install the mod. There was a folder "Translation" in the zip archive. Drop her off along the way: The Deadly Company\BepInEx
+1. Download and install the mod. There was a folder "Translation" in the zip archive. Drop her off along the way: Lethal Company\BepInEx
 If necessary, replace the existing files.
 
 ### Configuration
@@ -42,3 +42,4 @@ At this moment, you can use the following channels to ask for help
 ### 47
 
 * Initial release
+
